@@ -88,22 +88,26 @@ NorthPeak-Digital/
 
 ---
 
-## Screenshots
+## Project Preview
+
+A preview of the responsive landing page built for the Digital Heroes Web Development assessment.
 
 ### Hero Section
 
-<img src="./hero.png" alt="Hero Section" width="80%">
-
-### Services & Results
 <p align="center">
-  <img src="./services.png" alt="Services Section" width="47%">
-  <img src="./results.png" alt="Results Section" width="47%">
+  <img src="./hero.png" alt="Hero Section" width="85%">
 </p>
 
-### Pricing & Contact
+### Services
+
 <p align="center">
-  <img src="./prices.png" alt="Pricing Section" width="47%">
-  <img src="s./contact.png" alt="Contact Section" width="47%">
+  <img src="./services.png" alt="Services Section" width="85%">
+</p>
+
+### Pricing
+
+<p align="center">
+  <img src="./prices.png" alt="Pricing Section" width="85%">
 </p>
 
 ---
@@ -113,13 +117,13 @@ NorthPeak-Digital/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Sriyamalhar/northpeak-digital.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd NorthPeak-Digital
+cd northPeak-Digital
 ```
 
 Open `index.html` in your preferred browser.
