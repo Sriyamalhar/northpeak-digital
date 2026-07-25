@@ -140,7 +140,7 @@ ChatGPT was used selectively to brainstorm content structure, review semantic HT
 The website was optimized to achieve a Lighthouse score of 90+ in both Performance and Accessibility.
 
 <p align="center">
-  <img src="./screenshots/performance and accessibility.png" alt="Performance and Accessibility" width="85%">
+  <img src="./performance and accessibility.png" alt="Performance and Accessibility" width="85%">
 </p>
 
 ## Changelog
