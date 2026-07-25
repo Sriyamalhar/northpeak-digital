@@ -1,179 +1,158 @@
+<div align="center">
+
 # NorthPeak Digital
 
-*A modern, responsive, and performance-focused landing page built with HTML5, CSS3, and Vanilla JavaScript.*
+### Editorial-Inspired Digital Product Studio
 
-**🌐 Live Demo:** https://northpeak-digital-sriya.netlify.app/
+*A premium one-page digital agency website built with HTML5, CSS3, and Vanilla JavaScript.*
 
----
+**Digital Heroes Internship Qualification Task**
 
-# Overview
+🌐 **Live Demo**  
+https://northpeak-digital-sriya.netlify.app/
 
-NorthPeak Digital is a modern agency landing page designed to showcase digital services through a clean, conversion-focused user experience.
-
-The project emphasizes responsive layouts, semantic HTML, accessibility, performance optimization, and intuitive navigation while maintaining a polished visual identity.
-
-This project was created as part of the **Digital Heroes Internship Qualification Task**.
+</div>
 
 ---
 
-# Features
+## Overview
 
-- Responsive Hero Section
-- Services Grid
-- Company Statistics / Results Section
-- Testimonials
-- Three-Tier Pricing Plans
-- Contact Form with Client-Side Validation
-- Smooth Navigation
-- Mobile Navigation
-- Accessible Semantic HTML
-- Modern UI Components
-- Fully Responsive Layout
+NorthPeak Digital is a fictional product studio website designed to showcase a modern, editorial-inspired approach to digital agency design.
+
+Built around bold typography, generous whitespace, and a clean visual hierarchy, the website highlights the agency's services, measurable client results, pricing plans, and project inquiry workflow while delivering a responsive, accessible, and performance-focused user experience.
+
+Developed as part of the **Digital Heroes Internship Qualification Task**.
 
 ---
 
-# Tech Stack
+## Highlights
+
+- Editorial-inspired responsive layout
+- Premium typography and visual hierarchy
+- Six-service showcase
+- Results and testimonials section
+- Three-tier pricing plans
+- Project inquiry form with client-side validation
+- Smooth scrolling navigation
+- Mobile-first responsive design
+- Semantic HTML
+- Accessibility-focused structure
+- Performance-optimized front end
+
+---
+
+## Tech Stack
 
 - HTML5
 - CSS3
-- Vanilla JavaScript (ES6)
+- Vanilla JavaScript
 - Google Fonts
 - Netlify
 
 ---
 
-# Design Goals
+## Design Philosophy
 
-The interface was designed around four core principles:
+NorthPeak Digital was designed around three core principles:
 
-- Simplicity over clutter
-- Strong visual hierarchy
-- Fast loading performance
-- Mobile-first responsiveness
-
-Every section was intentionally structured to guide visitors from introduction to conversion without unnecessary distractions.
+- **Clarity** — clean layouts with a strong visual hierarchy.
+- **Performance** — lightweight assets and efficient front-end code.
+- **Craft** — thoughtful typography, spacing, and consistency to create a premium editorial experience.
 
 ---
 
-# Responsive Support
+## Performance
 
-Optimized for:
+The project was optimized with a focus on:
 
-- Mobile (360px+)
-- Tablet (768px+)
-- Laptop
-- Desktop (1440px+)
-
----
-
-# Accessibility
-
-The project follows accessibility best practices including:
-
-- Semantic HTML elements
-- Proper heading hierarchy
-- Accessible button labels
-- Keyboard-friendly navigation
-- Sufficient color contrast
-- Responsive typography
-- Readable spacing
-
----
-
-# Performance Optimizations
-
-Implemented optimizations include:
-
-- Optimized images
+- Responsive layouts
+- Semantic HTML
+- Accessible navigation
 - Efficient CSS organization
-- Reduced unnecessary JavaScript
-- Responsive image scaling
-- Semantic document structure
-- Lighthouse-focused optimization
+- Optimized assets
+- Lighthouse-friendly practices
 
 ---
 
-# Folder Structure
+## Project Structure
 
 ```text
-NorthPeak-Digital
+NorthPeak-Digital/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-│
-├── assets
-│   ├── images
-│   ├── icons
-│   └── fonts
-│
+├── assets/
 └── README.md
 ```
 
 ---
 
-# Screenshots
+## Screenshots
 
-## Home Page
+### Hero Section
 
-<img src="screenshots/home.png" alt="Home Page" width="100%">
+<img src="screenshots/hero.png" alt="Hero Section" width="100%">
 
-## Services Section
+### Services
 
 <img src="screenshots/services.png" alt="Services Section" width="100%">
 
-## Pricing Section
+### Results
+
+<img src="screenshots/results.png" alt="Results Section" width="100%">
+
+### Pricing
 
 <img src="screenshots/pricing.png" alt="Pricing Section" width="100%">
 
-## Mobile View
+### Contact
 
-<img src="screenshots/mobile.png" alt="Mobile View" width="35%">
+<img src="screenshots/contact.png" alt="Contact Section" width="100%">
 
 ---
 
-# Getting Started
+## Running Locally
 
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-Navigate to the project directory:
+Navigate to the project folder:
 
 ```bash
-cd northpeak-digital
+cd NorthPeak-Digital
 ```
 
 Open `index.html` in your preferred browser.
 
-No additional installation or dependencies are required.
+No build tools or additional dependencies are required.
 
 ---
 
-# AI Usage
+## AI Usage
 
-AI tools (ChatGPT) were used selectively to brainstorm the page structure, review semantic HTML, suggest responsive layout improvements, and refine the project documentation. All implementation, styling, responsiveness, debugging, testing, optimization, and final code were completed manually.
-
----
-
-# Assessment
-
-This project was developed as part of the **Digital Heroes Internship Qualification Task** for the Web Development role.
+ChatGPT was used selectively to brainstorm content structure, review semantic HTML, suggest responsive layout refinements, and improve the project documentation. All implementation, styling, responsiveness, debugging, testing, optimization, and final code were completed manually.
 
 ---
 
-# Author
+## Assessment
+
+This project was created for the **Digital Heroes Internship Qualification Task** for the Web Development role.
+
+---
+
+## Author
 
 **Sriya Malhar**
 
-**🌐 Live Demo**  
+🌐 **Live Demo**  
 https://northpeak-digital-sriya.netlify.app/
 
-**💻 GitHub**  
+💻 **GitHub**  
 https://github.com/Sriyamalhar
 
-**💼 LinkedIn**  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/sriya-malhar-55682b388/
-
