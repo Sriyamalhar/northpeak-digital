@@ -92,23 +92,19 @@ NorthPeak-Digital/
 
 ### Hero Section
 
-<img src="screenshots/hero.png" alt="Hero Section" width="100%">
+<img src="./hero.png" alt="Hero Section" width="80%">
 
-### Services
+### Services & Results
+<p align="center">
+  <img src="./services.png" alt="Services Section" width="47%">
+  <img src="./results.png" alt="Results Section" width="47%">
+</p>
 
-<img src="screenshots/services.png" alt="Services Section" width="100%">
-
-### Results
-
-<img src="screenshots/results.png" alt="Results Section" width="100%">
-
-### Pricing
-
-<img src="screenshots/pricing.png" alt="Pricing Section" width="100%">
-
-### Contact
-
-<img src="screenshots/contact.png" alt="Contact Section" width="100%">
+### Pricing & Contact
+<p align="center">
+  <img src="./prices.png" alt="Pricing Section" width="47%">
+  <img src="s./contact.png" alt="Contact Section" width="47%">
+</p>
 
 ---
 
