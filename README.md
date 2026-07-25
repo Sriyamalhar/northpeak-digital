@@ -7,8 +7,8 @@
 A responsive, hand-built one-page website for a fictional product studio.
 Built for the Digital Heroes Web Development qualification task (Role 05).
 
-`Live:` **‹paste your deployed URL here after deploying›**
-`Repo:` **‹paste your GitHub repo URL here›**
+`Live:` https://northpeak-digital-sriya.netlify.app/
+
 
 </div>
 
