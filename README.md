@@ -6,7 +6,6 @@
 
 *A premium one-page digital agency website built with HTML5, CSS3, and Vanilla JavaScript.*
 
-**Digital Heroes Internship Qualification Task**
 
 🌐 **Live Demo**  
 https://northpeak-digital-sriya.netlify.app/
@@ -20,8 +19,6 @@ https://northpeak-digital-sriya.netlify.app/
 NorthPeak Digital is a fictional product studio website designed to showcase a modern, editorial-inspired approach to digital agency design.
 
 Built around bold typography, generous whitespace, and a clean visual hierarchy, the website highlights the agency's services, measurable client results, pricing plans, and project inquiry workflow while delivering a responsive, accessible, and performance-focused user experience.
-
-Developed as part of the **Digital Heroes Internship Qualification Task**.
 
 ---
 
