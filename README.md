@@ -135,6 +135,23 @@ ChatGPT was used selectively to brainstorm content structure, review semantic HT
 
 ---
 
+## TASK B- Optimization
+## Lighthouse Audit Report
+The website was optimized to achieve a Lighthouse score of 90+ in both Performance and Accessibility.
+
+<p align="center">
+  <img src="./screenshots/performance and accessibility.png" alt="Performance and Accessibility" width="85%">
+</p>
+
+## Changelog
+The detailed optimization changes and their impact are documented in the file:
+
+[View Optimization Changelog](./CHANGELOG.md)
+
+### Loom Walkthrough
+
+[View Loom Walkthrough](https://www.loom.com/share/a1bf4fd40f3a4050b55a9662ebb7336d)
+  
 ## Assessment
 
 This project was created for the **Digital Heroes Internship Qualification Task** for the Web Development role.
